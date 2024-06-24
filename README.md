@@ -72,7 +72,7 @@ Supongamos que queremos encontrar la raíz de la función x^2 - 4 con un valor i
 
 **Ingresar la Función:**
 ```sh
-x^2 - 4
+x**2 - 4
 ```
 
 **Ingresar el Valor Inicial:**
